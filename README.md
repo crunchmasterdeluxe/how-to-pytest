@@ -24,7 +24,7 @@ An explanation of how to run unit tests using Python's pytest library
 
 ## What They Are
 
-Unit tests are automated tests of parts of the program. 
+Unit tests are automated tests of *parts* of the program. 
 
 They run in isolation from the whole program.
 
